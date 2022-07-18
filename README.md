@@ -11,7 +11,7 @@
 <a href="https://wa.me/6285769544834?text=Asalamualaikum+bang"><img src="https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white">
 </p>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cool&color=%23F7671C&center=true&vCenter=true&lines=Em+FindinG+SOMETHING+IN+MY+FOOT+!;OH+iTx+YOUR+ATTITUDE+%3A))](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+Github)](https://git.io/typing-svg)
  
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cool&color=%239766FF&center=true&vCenter=true&lines=MOHSIN+ALI+THE+BRAND+!;HATERX+MAKES+MEH+FAMOUS)](https://git.io/typing-svg)
