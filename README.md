@@ -11,10 +11,10 @@
 <a href="https://wa.me/6285769544834?text=Asalamualaikum+bang"><img src="https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white">
 </p>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+Github)](https://git.io/typing-svg)
+        [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+Github)](https://git.io/typing-svg)
  
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cool&color=%239766FF&center=true&vCenter=true&lines=MOHSIN+ALI+THE+BRAND+!;HATERX+MAKES+MEH+FAMOUS)](https://git.io/typing-svg)
+        [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1F8AF7&lines=Mr.Debo)](https://git.io/typing-svg)
 
  
   ![giphy](https://user-images.githubusercontent.com/77507222/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
