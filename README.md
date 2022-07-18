@@ -13,7 +13,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cool&color=%23F7671C&center=true&vCenter=true&lines=Em+FindinG+SOMETHING+IN+MY+FOOT+!;OH+iTx+YOUR+ATTITUDE+%3A))](https://git.io/typing-svg)
  
-  ![giphy](https://user-images.githubusercontent.com/77507222/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+  [giphy](https://user-images.githubusercontent.com/77507222/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 <p align="center">
   
 
