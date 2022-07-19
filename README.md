@@ -1,6 +1,6 @@
 ## WELCOME TO MY PROFILE
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF2C7C&lines=Welcome+To+My+Profile+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF0000&lines=Welcome+To+My+Profile+Github;Contact+the+admin+personal+account+via+the+link+below%3A)](https://git.io/typing-svg)
 <p align="center">
 <a href="https://github.com/MrDebo"><img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white">
 <a href="https://m.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/facebook-blue?logo=Twitter&logoColor=White&labelColor=white">
@@ -9,7 +9,7 @@
 <a href="https://wa.me/6285769544834?text=Asalamualaikum+bang"><img src="https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white">
 </p>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cool&color=%23F7671C&center=true&vCenter=true&lines=Em+FindinG+SOMETHING+IN+MY+FOOT+!;OH+iTx+YOUR+ATTITUDE+%3A)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF0000&lines=Bapak+Lo+Heker)](https://git.io/typing-svg)
  
   ![giphy](https://user-images.githubusercontent.com/77507222/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 <p align="center">
