@@ -1,7 +1,8 @@
 ## WELCOME TO MY PROFILE
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF0000&lines=Welcome+To+My+Profile+Github;Contact+the+admin+personal+account+via+the+link+below%3A)](https://git.io/typing-svg)
-<p align="center">
+## 🌐Socials
+
 <a href="https://github.com/MrDebo"><img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white">
 <a href="https://m.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/facebook-blue?logo=Twitter&logoColor=White&labelColor=white">
 <a href="https://www.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white">
@@ -19,7 +20,7 @@
 ![65441cf4b196585ac57067830360dda5](https://user-images.githubusercontent.com/72184388/115982548-6f4e5400-a5b5-11eb-92de-748a1a1d7d80.gif)
 
 
-## 🌐Socials) 
+## 🌐Socials
 
 # 💻Tech Stack
 
