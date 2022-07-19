@@ -9,7 +9,7 @@
 <a href="https://wa.me/6285769544834?text=Asalamualaikum+bang"><img src="https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white">
 </p>
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF0000&lines=Bapak+Lo+Heker)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=3000&color=FF8500&lines=Sekali+Putaran;Setengah+Putaran;Bersihkan+Sel+Kulit+Mati;Dan+Kotoran+Lalu+Menyilang;Menyilang+Komedo+Berkurang;Putar+Putar+Diwajah;Bilas+Multivitamin;ABCD..+)](https://git.io/typing-svg)
  
   ![giphy](https://user-images.githubusercontent.com/77507222/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 <p align="center">
