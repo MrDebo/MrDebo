@@ -18,4 +18,13 @@
   
 ![65441cf4b196585ac57067830360dda5](https://user-images.githubusercontent.com/72184388/115982548-6f4e5400-a5b5-11eb-92de-748a1a1d7d80.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsinthelegend" alt="mohsinthelegend" /></a> </p>
+
+## 🌐Socials) 
+
+# 💻Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+
+  
+
+  
