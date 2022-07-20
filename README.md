@@ -1,7 +1,7 @@
 ## WELCOME TO MY PROFILE
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF0000&lines=Welcome+To+My+Profile+Github;Contact+the+admin+personal+account+via+the+link+below%3A)](https://git.io/typing-svg)
-## 🌐Socials
+## 📱 If You Want To Be Friends With The Admin, Click The Menu Below:
 
 <a href="https://github.com/MrDebo"><img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white">
 <a href="https://m.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/facebook-blue?logo=Twitter&logoColor=White&labelColor=white">
