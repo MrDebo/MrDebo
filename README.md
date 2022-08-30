@@ -3,7 +3,7 @@
 
 Join Grup WhatsApp Klik di [sini!](https://chat.whatsapp.com/ErOkUoYbRhuLpjNQISTlU5)
 </p>
-<img src="https://github.com/MrDebo/Tools-Debo/blob/master/e3bc71229fec4ab693b46a81f5b521a9.mp4" />
+<img src="https://github.com/MrDebo/Tools-Debo/blob/master/1657860562437.jpg" />
 </p>
 
 <a align="center"> <img src="https://komarev.com/ghpvc/?username=MrDebo&label=Profile%20views&color=blue&style=flat" alt="MrDebo"/></p>
