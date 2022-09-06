@@ -1,5 +1,6 @@
 ## WELCOME TO MY PROFILE GITHUB
 
+Download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_118.apk)
 
 Join Grup WhatsApp Klik di [sini!](https://chat.whatsapp.com/ErOkUoYbRhuLpjNQISTlU5)
 </p>
