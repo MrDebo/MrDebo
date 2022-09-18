@@ -2,7 +2,7 @@
 
 Download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_118.apk)
 
-Join Grup WhatsApp Klik di [sini!](https://chat.whatsapp.com/ErOkUoYbRhuLpjNQISTlU5)
+Join Grup WhatsApp Klik di [sini!](https://chat.whatsapp.com/I4vV9EY61VEDbVGrJvPcsa)
 </p>
 <img src="https://github.com/MrDebo/xyz/blob/main/1663518885481.jpg" />
 </p>
