@@ -4,7 +4,7 @@ Download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_
 
 Join Grup WhatsApp Klik di [sini!](https://chat.whatsapp.com/I4vV9EY61VEDbVGrJvPcsa)
 </p>
-<img src="https://github.com/MrDebo/xyz/blob/main/1663518885481.jpg" />
+<img src="https://github.com/MrDebo/xyz/blob/main/IMG_20220920_231542.jpg" />
 </p>
 
 <a align="center"> <img src="https://komarev.com/ghpvc/?username=MrDebo&label=Profile%20views&color=blue&style=flat" alt="MrDebo"/></p>
