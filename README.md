@@ -10,7 +10,7 @@ Join Grup WhatsApp Klik di [sini!](https://chat.whatsapp.com/I4vV9EY61VEDbVGrJvP
 <a href="https://github.com/MrDebo"><img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white">
 <a href="https://github.com/MrDebo"><img title="MrDebo" src="https://img.shields.io/github/followers/MrDebo?label=followers&style=social"></p>
 <a href="https://m.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=White&labelColor=white">
-<a href="https://www.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white">
+<a href="https://www.facebook.com/andikaatyzz"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white">
 <a href="https://instagram.com/andikarmdni69?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=purple&labelColor=white">
 <a href="https://wa.me/6287718516224?text=Asalamualaikum+Bang+Debo"><img src="https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white">
 </p>
