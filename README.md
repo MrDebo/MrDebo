@@ -10,7 +10,7 @@ Join Grup WhatsApp Klik di [sini!](https://chat.whatsapp.com/I4vV9EY61VEDbVGrJvP
 <a align="center"> <img src="https://komarev.com/ghpvc/?username=MrDebo&label=Profile%20views&color=blue&style=flat" alt="MrDebo"/></p>
 <a href="https://github.com/MrDebo"><img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white">
 <a href="https://github.com/MrDebo"><img title="MrDebo" src="https://img.shields.io/github/followers/MrDebo?label=follow&style=social"></a>
-</p><br>
+
 <a href="https://m.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=White&labelColor=white">
 <a href="https://www.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white">
 <a href="https://instagram.com/andikarmdni69?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=purple&labelColor=white">
