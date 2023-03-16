@@ -11,7 +11,7 @@ Join Grup WhatsApp Klik di [sini!](https://chat.whatsapp.com/I4vV9EY61VEDbVGrJvP
 
 </p>
 <a href="https://github.com/MrDebo"><img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white">
-<a href="https://github.com/hekelpro"><img title="hekelpro" src="https://img.shields.io/github/followers/hekelpro?label=follow&style=social"></a>
+<a href="https://github.com/MrDebo"><img title="MrDebo" src="https://img.shields.io/github/followers/MrDebo?label=follow&style=social"></a>
 </p><br>
 <a href="https://m.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=White&labelColor=white">
 <a href="https://www.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white">
