@@ -21,5 +21,5 @@ Download Aplikasi Termux Android Di [sini!](https://f-droid.org/repo/com.termux_
   🔭 I’m currently working on nothing
 
 ![MrDebo GitHub stats](https://github-readme-stats.vercel.app/api?MrDebo=&show_icons=true&theme=tokyonight)<br>
-![MrDebo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?MrDebo=MrDebo&theme=tokyonight&hide_border=false&layout=compact)
+![MrDebo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDebo&theme=tokyonight&hide_border=false&layout=compact)
 
