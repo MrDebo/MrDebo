@@ -38,7 +38,7 @@
 ---
 
 ### 🔥 GitHub Streak : 
-<div align="center">
+<div>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=MrDebo&theme=dark&hide_border=false" alt="GitHub Streak" />
   </a>
