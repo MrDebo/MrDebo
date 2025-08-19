@@ -38,13 +38,14 @@
 
 ---
 
-### 🔭 I’m Currently Working on Nothing
+### 🔭 I’m Currently Working on Nothing : 
 
 ![MrDebo GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDebo&show_icons=true&theme=tokyonight)<br>
 ![MrDebo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDebo&theme=tokyonight&hide_border=false&layout=compact)
 
+---
 
-## 📈 Activity Graph
+### 📈 Activity Graph :
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrDebo&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
