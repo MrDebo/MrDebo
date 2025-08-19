@@ -37,6 +37,15 @@
 
 ---
 
+### 🔥 GitHub Streak : 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MrDebo&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
 ### 🔭 I’m Currently Working on Nothing : 
 
 ![MrDebo GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDebo&show_icons=true&theme=tokyonight)<br>
