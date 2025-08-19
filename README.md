@@ -1,6 +1,6 @@
 ### HELLO WORLD, I'm Debo!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=HELLO+WORLD%2C+I'm+Debo!;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <br>
 
