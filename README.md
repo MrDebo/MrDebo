@@ -1,5 +1,9 @@
 ### HELLO WORLD, I'm Debo!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=480&lines=Hi!%2C+I'am+Sahrul;Full+Stack+Developer)](https://git.io/typing-svg)
+
+<br>
+
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -8,6 +12,8 @@
 <a href="https://github.com/MrDebo"><img src="https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white">
 <a href="https://github.com/MrDebo"><img title="MrDebo" src="https://img.shields.io/github/followers/MrDebo?label=followers&style=social"></p>
 </div>
+
+---
 
 ### 📞 Contact Admin :
 <a href="https://m.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=White&labelColor=white">
