@@ -1,5 +1,9 @@
 ## HELLO WORLD, I'm Debo!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 Download Aplikasi Termux Android Di [sini!](https://f-droid.org/repo/com.termux_118.apk)
 </p>
 <a href="center"><img src="https://komarev.com/ghpvc/?username=MrDebo&label=Profile%20views&color=blue&style=flat" alt="MrDebo">
