@@ -12,8 +12,8 @@
 ### 📞 Contact Admin :
 <a href="https://m.facebook.com/Mr.Debo.02"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=White&labelColor=white">
 <a href="https://www.facebook.com/andikaatyzz"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white">
-<a href="https://instagram.com/andikarmdni69?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=purple&labelColor=white">
-<a href="https://wa.me/6287718516224?text=Asalamualaikum+Bang+Debo"><img src="https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white">
+<a href="https://instagram.com/ramadhanxyzz?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=purple&labelColor=white">
+<a href="https://wa.me/6285769544834?text=Hallo,admin"><img src="https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=Brightgreen&labelColor=white">
 
 
 ---
