@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-  🔭 I’m currently working on nothing
+### 🔭 I’m currently working on nothing
 
 ![MrDebo GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDebo&show_icons=true&theme=tokyonight)<br>
 ![MrDebo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDebo&theme=tokyonight&hide_border=false&layout=compact)
